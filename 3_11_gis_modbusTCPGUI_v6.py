@@ -753,7 +753,7 @@ class HistoryViewerWindow(QDialog):
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("GIS局放监测系统 v1.2")
+        self.setWindowTitle("GIS局放监测系统 v1.4")
         # 设置窗口图标
         self.setWindowIcon(QIcon(':images/GIS_PD.ico'))
         self.setGeometry(100, 100, 1280, 720)
@@ -1521,9 +1521,9 @@ class MainWindow(QMainWindow):
 
     def show_about(self):
         QMessageBox.about(self, "关于系统", 
-                         "GIS局放监测系统 v1.2\n\n"
+                         "GIS局放监测系统 v1.4\n\n"
                          "本系统用于监测GIS设备的局部放电情况，提供实时数据显示和分析功能。\n\n"
-                         "集成了局部放电类型识别功能。\n\n"
+                         "集成了局部放电类型识别功能和历史记录查看比对功能。\n\n"
                          "© 2025 南京固攀电力设备监测团队")
         
     def check_api_connection(self):
