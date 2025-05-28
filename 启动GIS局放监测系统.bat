@@ -1,0 +1,13 @@
+@echo off
+echo 正在启动GIS局放监测系统...
+
+echo 启动局放类型识别API服务...
+start cmd /k "cd /d %~dp0pd_recognition_system && python svm_fastapi.py"
+
+echo 等待API服务启动...
+timeout /t 5 /nobreak
+
+echo 启动GIS局放监测系统主程序...
+start python "%~dp03_11_gis_modbusTCPGUI_v5.py"
+
+echo 系统启动完成！
