@@ -184,5 +184,1571 @@
     "pd_type": "corona",
     "confidence": "27.83%",
     "timestamp": "2025-05-28 17:16:06"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250528_172052.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-28 17:20:52"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250528_172059.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-28 17:20:59"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250528_172106.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-28 17:21:06"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250528_172113.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-28 17:21:13"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250528_172120.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-28 17:21:20"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250528_172127.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-28 17:21:27"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250528_172134.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-28 17:21:34"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250528_172141.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-28 17:21:42"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250528_172149.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-28 17:21:50"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250528_172157.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-28 17:21:59"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250528_172206.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-28 17:22:07"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250528_172214.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-28 17:22:14"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250528_172221.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-28 17:22:21"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250528_172228.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-28 17:22:28"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_150143.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:01:44"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_150150.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:01:51"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_150157.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:01:58"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_150205.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:02:05"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_150211.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:02:12"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151012.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:10:13"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151019.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:10:20"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151026.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:10:27"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151033.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:10:34"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151040.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:10:41"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151047.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:10:48"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151054.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:10:55"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151101.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:11:02"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151108.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:11:09"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151115.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:11:16"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151122.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:11:23"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151129.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:11:30"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151136.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:11:37"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151143.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:11:44"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151150.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:11:51"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151157.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:11:58"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151204.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:12:05"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151211.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:12:12"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151218.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:12:19"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151225.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:12:26"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151232.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:12:33"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151239.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:12:40"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151246.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:12:47"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151253.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:12:54"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151300.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:13:01"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151308.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:13:08"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_151314.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:13:15"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152107.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:21:07"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152114.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:21:14"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152121.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:21:21"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152128.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:21:28"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152135.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:21:35"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152142.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:21:42"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152149.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:21:49"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152156.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:21:56"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152203.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:22:03"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152210.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:22:10"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152217.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:22:17"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152224.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:22:24"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152231.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:22:31"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152238.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:22:38"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152245.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:22:45"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152252.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:22:52"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152259.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:22:59"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152306.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:23:06"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152313.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:23:13"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_152320.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 15:23:20"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160731.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:07:31"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160738.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:07:39"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160745.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:07:45"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160752.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:07:52"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160759.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:08:00"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160806.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:08:06"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160813.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:08:14"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160820.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:08:21"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160827.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:08:28"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160834.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:08:35"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160841.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:08:42"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160848.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:08:49"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160855.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:08:56"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160903.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:09:03"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160910.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:09:11"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160917.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:09:18"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160924.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:09:25"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160931.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:09:32"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160938.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:09:39"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160945.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:09:46"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160952.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:09:53"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_160959.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:10:00"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161006.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:10:07"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161013.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:10:14"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161020.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:10:21"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161027.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:10:28"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161034.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:10:35"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161041.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:10:42"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161048.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:10:49"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161056.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:10:56"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161102.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:11:03"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161109.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:11:10"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161116.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:11:17"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161124.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:11:24"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161130.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:11:31"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161137.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:11:38"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161145.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:11:45"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161151.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:11:52"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161159.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:11:59"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161206.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:12:06"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161213.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:12:13"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161220.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:12:20"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161227.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:12:27"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161234.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:12:34"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161241.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:12:41"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161248.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:12:48"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161255.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:12:55"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161302.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:13:02"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161309.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:13:09"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161316.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:13:16"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161323.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:13:23"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161330.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:13:30"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161337.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:13:37"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161344.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:13:44"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161351.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:13:51"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161358.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:13:58"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161405.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:14:05"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161412.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:14:12"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161419.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:14:19"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161426.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:14:26"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161433.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:14:33"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161440.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:14:40"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161447.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:14:47"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161454.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:14:54"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161501.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:15:01"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161508.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:15:08"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161515.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:15:15"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161522.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:15:22"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_161529.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 16:15:29"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_172135.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 17:21:35"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_172142.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 17:21:42"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_172149.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 17:21:49"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_172156.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 17:21:56"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_172203.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 17:22:03"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_172210.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 17:22:10"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_172217.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 17:22:17"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_172224.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 17:22:24"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_172231.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 17:22:31"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_172238.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 17:22:38"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250529_172245.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-29 17:22:45"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143700.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:37:00"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143707.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:37:07"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143714.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:37:14"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143721.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:37:21"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143728.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:37:28"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143735.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:37:35"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143742.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:37:42"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143749.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:37:49"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143756.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:37:56"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143803.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:38:03"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143810.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:38:10"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143817.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:38:17"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143824.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:38:24"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143913.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:39:13"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143920.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:39:20"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143927.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:39:27"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143934.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:39:34"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143941.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:39:41"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143948.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:39:48"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_143955.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:39:55"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144002.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:40:02"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144009.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:40:09"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144016.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:40:16"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144512.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:45:13"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144519.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:45:20"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144526.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:45:26"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144533.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:45:33"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144540.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:45:40"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144547.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:45:47"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144555.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:45:55"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144602.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:46:03"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144609.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:46:09"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144616.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:46:16"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144623.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:46:23"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144630.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:46:30"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144637.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:46:37"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144644.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:46:44"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144651.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:46:51"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144658.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:46:59"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144705.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:47:06"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144712.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:47:13"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144719.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:47:19"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144726.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:47:27"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144733.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:47:33"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144740.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:47:41"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144747.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:47:47"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144754.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:47:54"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144801.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:48:01"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144808.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:48:08"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144815.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:48:15"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144822.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:48:22"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144829.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:48:29"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144836.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:48:36"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144843.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:48:43"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144850.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:48:51"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144857.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:48:57"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144904.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:49:05"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144911.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:49:11"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144918.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:49:19"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144925.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:49:26"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144932.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:49:32"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144939.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:49:40"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144946.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:49:46"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_144953.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:49:53"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145000.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:50:01"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145007.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:50:08"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145014.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:50:14"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145021.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:50:21"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145028.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:50:28"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145035.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:50:36"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145042.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:50:43"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145049.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:50:50"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145056.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:50:56"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145103.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:51:03"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145112.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:51:12"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145119.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:51:19"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145126.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:51:26"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145134.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:51:34"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145141.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:51:41"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145148.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:51:48"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145155.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:51:55"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145202.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:52:02"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145209.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:52:09"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145216.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:52:16"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145223.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:52:23"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145230.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:52:30"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145237.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:52:37"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145244.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:52:44"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145252.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:52:52"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145259.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:52:59"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145306.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:53:07"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145314.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:53:14"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145321.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:53:21"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145801.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:58:01"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145808.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:58:08"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145815.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:58:15"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145822.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:58:22"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145829.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:58:29"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145836.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:58:36"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_145843.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 14:58:43"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_150713.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 15:07:13"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_150720.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 15:07:20"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_150727.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 15:07:27"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_150734.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 15:07:34"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_150741.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 15:07:42"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_150748.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 15:07:49"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_150755.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 15:07:55"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_150802.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 15:08:03"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_150810.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 15:08:11"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_150817.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 15:08:18"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_150824.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 15:08:24"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_150831.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 15:08:31"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_150838.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 15:08:38"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_150845.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 15:08:45"
+  },
+  {
+    "image_path": "tmp_images/pd_image_20250530_150852.jpg",
+    "pd_type": "corona",
+    "confidence": "27.83%",
+    "timestamp": "2025-05-30 15:08:52"
   }
 ]

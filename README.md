@@ -80,6 +80,8 @@ v1.3版本添加的自动识别功能，无需手动点击识别按钮：
 
 ![系统界面预览](系统界面预览.png)
 ![系统界面预览](https://github.com/user-attachments/assets/a406dc92-3605-46d2-b95a-61e295b517b2)
+![image](https://github.com/user-attachments/assets/3ba4ec1a-71c1-46f6-b727-105048ca5f6b)
+
 
 ## 主要功能
 

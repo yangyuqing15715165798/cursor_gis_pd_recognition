@@ -1321,9 +1321,11 @@ class MainWindow(QMainWindow):
                         # 更新标题显示累加次数
                         self.ax1.set_title(f'PRPD图 (相位分辨局部放电) - 累加模式 ({len(self.prpd_history)}次)', 
                                          fontsize=14, fontweight='bold')
+                        print(f"累加PRPD图更新，当前累加次数: {len(self.prpd_history)}")
                     else:
-                        # 清空历史数据
+                        # 不是累加模式，但保留最后一次数据以便切换时有初始数据
                         self.prpd_history = []
+                        self.prpd_history.append((phase_values.copy(), uhf_db_values.copy()))
                         # 只绘制当前数据
                         scatter = self.ax1.scatter(phase_values, uhf_db_values, c=uhf_db_values, 
                                                  cmap='viridis', alpha=0.7, s=50, edgecolors='w')
@@ -1380,20 +1382,54 @@ class MainWindow(QMainWindow):
                     ax_prpd.set_ylabel('幅值 (dB)', fontsize=12)
                     ax_prpd.set_xlim(0, 360)
                     ax_prpd.set_ylim(0, 80)
-                    ax_prpd.set_title('PRPD图 (相位分辨局部放电)', fontsize=14, fontweight='bold')
-                    ax_prpd.grid(True, linestyle='--', alpha=0.7)
+                    
+                    # 根据是否累加PRPD图设置标题和数据
+                    if self.show_accumulated_prpd.isChecked():
+                        # 确保历史数据存在
+                        if len(self.prpd_history) == 0:
+                            print("警告：累加模式开启，但历史数据为空，可能需要先更新几次图表")
+                            # 尝试添加当前数据到历史
+                            if phase_values and uhf_db_values:
+                                self.prpd_history.append((phase_values.copy(), uhf_db_values.copy()))
+                        
+                        ax_prpd.set_title(f'PRPD图 (相位分辨局部放电) - 累加模式 ({len(self.prpd_history)}次)', 
+                                         fontsize=14, fontweight='bold')
+                        print(f"使用累加PRPD图进行识别，累加了{len(self.prpd_history)}次数据")
+                        
+                        # 合并所有历史数据用于散点图
+                        all_phases = []
+                        all_uhf_dbs = []
+                        for hist_phase, hist_uhf in self.prpd_history:
+                            all_phases.extend(hist_phase)
+                            all_uhf_dbs.extend(hist_uhf)
+                        
+                        # 绘制累加的散点图
+                        if all_phases and all_uhf_dbs:
+                            scatter = ax_prpd.scatter(all_phases, all_uhf_dbs, c=all_uhf_dbs, 
+                                               cmap='viridis', alpha=0.7, s=50, edgecolors='w')
+                            print(f"累加数据点数：{len(all_phases)}")
+                        else:
+                            print("警告：累加数据为空")
+                            scatter = None
+                    else:
+                        ax_prpd.set_title('PRPD图 (相位分辨局部放电)', fontsize=14, fontweight='bold')
+                        # 只绘制当前数据
+                        scatter = ax_prpd.scatter(phase_values, uhf_db_values, c=uhf_db_values, 
+                                           cmap='viridis', alpha=0.7, s=50, edgecolors='w')
+                        print(f"使用单次PRPD图进行识别，数据点数：{len(phase_values)}")
                     
                     # 添加参考波形
                     x = np.linspace(0, 360, 1000)
                     y = 40 + 40 * np.sin(np.radians(x))
                     ax_prpd.plot(x, y, 'r-', label='参考波形', linewidth=2, alpha=0.5)
-                    
-                    # 绘制散点图
-                    scatter = ax_prpd.scatter(phase_values, uhf_db_values, c=uhf_db_values, 
-                                         cmap='viridis', alpha=0.7, s=50, edgecolors='w')
+                    ax_prpd.legend(loc='upper right')
                     
                     # 添加colorbar
-                    fig_prpd.colorbar(scatter, ax=ax_prpd, label='幅值 (dB)')
+                    if scatter:
+                        fig_prpd.colorbar(scatter, ax=ax_prpd, label='幅值 (dB)')
+                    
+                    # 添加网格线增强可视性
+                    ax_prpd.grid(True, linestyle='--', alpha=0.7)
                     
                     # 调整布局并保存
                     fig_prpd.tight_layout()
@@ -1545,10 +1581,13 @@ class MainWindow(QMainWindow):
         """切换自动识别功能"""
         self.auto_recognize = (state == Qt.Checked)
         if self.auto_recognize:
-            self.update_counter = 0  # 重置计数器
+            # 设置更新计数器为自动识别间隔-1，以便下一次更新时立即触发识别
+            self.update_counter = self.auto_recognize_interval - 1
             self.status_bar.showMessage(f"自动识别已开启，每 {self.auto_recognize_interval} 次更新进行一次识别")
+            print(f"自动识别已开启，每 {self.auto_recognize_interval} 次更新进行一次识别")
         else:
             self.status_bar.showMessage("自动识别已关闭")
+            print("自动识别已关闭")
     
     def change_auto_recognize_interval(self, value):
         """更改自动识别间隔"""
@@ -1604,20 +1643,57 @@ class MainWindow(QMainWindow):
             ax_prpd.set_ylabel('幅值 (dB)', fontsize=12)
             ax_prpd.set_xlim(0, 360)
             ax_prpd.set_ylim(0, 80)
-            ax_prpd.set_title('PRPD图 (相位分辨局部放电)', fontsize=14, fontweight='bold')
-            ax_prpd.grid(True, linestyle='--', alpha=0.7)
+            
+            # 根据是否累加PRPD图设置标题和数据
+            if self.show_accumulated_prpd.isChecked():
+                # 确保历史数据存在
+                if len(self.prpd_history) == 0:
+                    print("警告：累加模式开启，但历史数据为空，可能需要先更新几次图表")
+                    # 尝试添加当前数据到历史
+                    if phase_values and uhf_db_values:
+                        self.prpd_history.append((phase_values.copy(), uhf_db_values.copy()))
+                
+                ax_prpd.set_title(f'PRPD图 (相位分辨局部放电) - 累加模式 ({len(self.prpd_history)}次)', 
+                                 fontsize=14, fontweight='bold')
+                print(f"使用累加PRPD图进行识别，累加了{len(self.prpd_history)}次数据")
+                
+                # 合并所有历史数据用于散点图
+                all_phases = []
+                all_uhf_dbs = []
+                for hist_phase, hist_uhf in self.prpd_history:
+                    all_phases.extend(hist_phase)
+                    all_uhf_dbs.extend(hist_uhf)
+                
+                # 绘制累加的散点图
+                if all_phases and all_uhf_dbs:
+                    scatter = ax_prpd.scatter(all_phases, all_uhf_dbs, c=all_uhf_dbs, 
+                                       cmap='viridis', alpha=0.7, s=50, edgecolors='w')
+                    print(f"累加数据点数：{len(all_phases)}")
+                else:
+                    print("警告：累加数据为空")
+                    scatter = None
+            else:
+                ax_prpd.set_title('PRPD图 (相位分辨局部放电)', fontsize=14, fontweight='bold')
+                # 只绘制当前数据
+                if phase_values and uhf_db_values:
+                    scatter = ax_prpd.scatter(phase_values, uhf_db_values, c=uhf_db_values, 
+                                       cmap='viridis', alpha=0.7, s=50, edgecolors='w')
+                    print(f"使用单次PRPD图进行识别，数据点数：{len(phase_values)}")
+                else:
+                    print("警告：当前数据为空")
+                    scatter = None
             
             # 添加参考波形
             x = np.linspace(0, 360, 1000)
             y = 40 + 40 * np.sin(np.radians(x))
             ax_prpd.plot(x, y, 'r-', label='参考波形', linewidth=2, alpha=0.5)
+            ax_prpd.legend(loc='upper right')
             
-            # 绘制散点图
-            if phase_values and uhf_db_values:
-                scatter = ax_prpd.scatter(phase_values, uhf_db_values, c=uhf_db_values, 
-                                     cmap='viridis', alpha=0.7, s=50, edgecolors='w')
-                
-                # 添加colorbar
+            # 添加网格线增强可视性
+            ax_prpd.grid(True, linestyle='--', alpha=0.7)
+            
+            # 添加colorbar
+            if scatter:
                 fig_prpd.colorbar(scatter, ax=ax_prpd, label='幅值 (dB)')
             
             # 调整布局并保存
